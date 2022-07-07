@@ -1,0 +1,10 @@
+../drivers/fsl_romapi.c:81:6:ROM_RunBootloader	16	static
+../drivers/fsl_romapi.c:93:10:ROM_FLEXSPI_NorFlash_Init	16	static
+../drivers/fsl_romapi.c:107:10:ROM_FLEXSPI_NorFlash_ProgramPage	32	static
+../drivers/fsl_romapi.c:124:10:ROM_FLEXSPI_NorFlash_Read	40	static
+../drivers/fsl_romapi.c:139:10:ROM_FLEXSPI_NorFlash_Erase	32	static
+../drivers/fsl_romapi.c:146:10:ROM_FLEXSPI_NorFlash_EraseAll	16	static
+../drivers/fsl_romapi.c:154:10:ROM_FLEXSPI_NorFlash_CommandXfer	16	static
+../drivers/fsl_romapi.c:162:10:ROM_FLEXSPI_NorFlash_UpdateLut	32	static
+../drivers/fsl_romapi.c:172:6:ROM_FLEXSPI_NorFlash_ClearCache	16	static
+../drivers/fsl_romapi.c:179:10:ROM_FLEXSPI_NorFlash_GetConfig	32	static

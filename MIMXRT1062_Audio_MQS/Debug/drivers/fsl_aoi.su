@@ -1,0 +1,9 @@
+../drivers/fsl_common_arm.h:210:20:_SDK_AtomicLocalClearAndSet4Byte	48	static
+../drivers/fsl_clock.h:1496:20:CLOCK_ControlGate	32	static
+../drivers/fsl_clock.h:1513:20:CLOCK_EnableClock	16	static
+../drivers/fsl_clock.h:1523:20:CLOCK_DisableClock	16	static
+../drivers/fsl_aoi.c:40:17:AOI_GetInstance	24	static
+../drivers/fsl_aoi.c:65:6:AOI_Init	16	static
+../drivers/fsl_aoi.c:80:6:AOI_Deinit	16	static
+../drivers/fsl_aoi.c:104:6:AOI_GetEventLogicConfig	32	static
+../drivers/fsl_aoi.c:193:6:AOI_SetEventLogicConfig	32	static

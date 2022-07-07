@@ -1,0 +1,16 @@
+../drivers/fsl_flexio.h:569:24:FLEXIO_GetShifterStatusFlags	16	static
+../drivers/fsl_flexio.h:652:20:FLEXIO_EnableShifterStatusDMA	24	static
+../drivers/fsl_flexio_mculcd.h:302:20:FLEXIO_MCULCD_EnableTxDMA	16	static
+../drivers/fsl_flexio_mculcd.h:313:20:FLEXIO_MCULCD_EnableRxDMA	16	static
+../drivers/fsl_flexio_mculcd.h:327:24:FLEXIO_MCULCD_GetTxDataRegisterAddress	16	static
+../drivers/fsl_flexio_mculcd.h:341:24:FLEXIO_MCULCD_GetRxDataRegisterAddress	16	static
+../drivers/fsl_flexio_mculcd.h:523:20:FLEXIO_MCULCD_StartTransfer	16	static
+../drivers/fsl_flexio_mculcd.h:533:20:FLEXIO_MCULCD_StopTransfer	16	static
+../drivers/fsl_flexio_mculcd_edma.c:76:13:FLEXIO_MCULCD_TxEDMACallback	40	static
+../drivers/fsl_flexio_mculcd_edma.c:133:13:FLEXIO_MCULCD_RxEDMACallback	56	static
+../drivers/fsl_flexio_mculcd_edma.c:204:13:FLEXIO_MCULCD_EDMAConfig	56	static
+../drivers/fsl_flexio_mculcd_edma.c:277:13:FLEXIO_MCULCD_GetEDMAModulo	24	static
+../drivers/fsl_flexio_mculcd_edma.c:321:10:FLEXIO_MCULCD_TransferCreateHandleEDMA	24	static
+../drivers/fsl_flexio_mculcd_edma.c:386:10:FLEXIO_MCULCD_TransferEDMA	32	static
+../drivers/fsl_flexio_mculcd_edma.c:503:6:FLEXIO_MCULCD_TransferAbortEDMA	16	static
+../drivers/fsl_flexio_mculcd_edma.c:535:10:FLEXIO_MCULCD_TransferGetCountEDMA	40	static

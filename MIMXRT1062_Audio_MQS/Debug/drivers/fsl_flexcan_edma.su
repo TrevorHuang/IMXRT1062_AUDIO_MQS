@@ -1,0 +1,7 @@
+../drivers/fsl_flexcan.h:1733:24:FLEXCAN_GetRxFifoHeadAddr	16	static
+../drivers/fsl_flexcan_edma.c:60:13:FLEXCAN_ReceiveFifoEDMACallback	40	static
+../drivers/fsl_flexcan_edma.c:107:6:FLEXCAN_TransferCreateHandleEDMA	32	static
+../drivers/fsl_flexcan_edma.c:142:6:FLEXCAN_PrepareTransfConfiguration	48	static
+../drivers/fsl_flexcan_edma.c:176:10:FLEXCAN_StartTransferDatafromRxFIFO	32	static
+../drivers/fsl_flexcan_edma.c:219:10:FLEXCAN_TransferReceiveFifoEDMA	56	static
+../drivers/fsl_flexcan_edma.c:245:6:FLEXCAN_TransferAbortReceiveFifoEDMA	16	static

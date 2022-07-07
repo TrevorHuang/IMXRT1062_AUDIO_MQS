@@ -1,0 +1,8 @@
+../drivers/fsl_flexio.h:652:20:FLEXIO_EnableShifterStatusDMA	24	static
+../drivers/fsl_flexio_camera.h:206:20:FLEXIO_CAMERA_EnableRxDMA	16	static
+../drivers/fsl_flexio_camera.h:217:24:FLEXIO_CAMERA_GetRxBufferAddress	16	static
+../drivers/fsl_flexio_camera_edma.c:66:13:FLEXIO_CAMERA_TransferReceiveEDMACallback	40	static
+../drivers/fsl_flexio_camera_edma.c:99:10:FLEXIO_CAMERA_TransferCreateHandleEDMA	32	static
+../drivers/fsl_flexio_camera_edma.c:157:10:FLEXIO_CAMERA_TransferReceiveEDMA	80	static
+../drivers/fsl_flexio_camera_edma.c:201:6:FLEXIO_CAMERA_TransferAbortReceiveEDMA	16	static
+../drivers/fsl_flexio_camera_edma.c:225:10:FLEXIO_CAMERA_TransferGetReceiveCountEDMA	32	static

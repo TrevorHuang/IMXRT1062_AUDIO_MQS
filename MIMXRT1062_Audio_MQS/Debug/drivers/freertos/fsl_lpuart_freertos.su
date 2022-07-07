@@ -1,0 +1,7 @@
+C:\Users\nxf75461\Documents\MCUXpressoIDE_11.5.0_7232\workspace\MIMXRT1062_MQS_TEST\drivers/fsl_lpuart.h:721:20:LPUART_EnableTx	16	static
+C:\Users\nxf75461\Documents\MCUXpressoIDE_11.5.0_7232\workspace\MIMXRT1062_MQS_TEST\drivers/fsl_lpuart.h:741:20:LPUART_EnableRx	16	static
+../drivers/freertos/fsl_lpuart_freertos.c:19:13:LPUART_RTOS_Callback	40	static
+../drivers/freertos/fsl_lpuart_freertos.c:72:5:LPUART_RTOS_Init	48	static
+../drivers/freertos/fsl_lpuart_freertos.c:189:5:LPUART_RTOS_Deinit	16	static
+../drivers/freertos/fsl_lpuart_freertos.c:226:5:LPUART_RTOS_Send	48	static
+../drivers/freertos/fsl_lpuart_freertos.c:295:5:LPUART_RTOS_Receive	56	static

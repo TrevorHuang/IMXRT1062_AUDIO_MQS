@@ -1,0 +1,2 @@
+../drivers/fsl_flexram_allocate.h:75:20:FLEXRAM_SetAllocateRamSrc	16	static
+../drivers/fsl_flexram_allocate.c:39:10:FLEXRAM_AllocateRam	32	static

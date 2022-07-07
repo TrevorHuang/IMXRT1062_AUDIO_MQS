@@ -1,0 +1,17 @@
+../drivers/fsl_flexio.h:652:20:FLEXIO_EnableShifterStatusDMA	24	static
+../drivers/fsl_flexio_i2s.h:212:20:FLEXIO_I2S_Enable	16	static
+../drivers/fsl_flexio_i2s.h:275:20:FLEXIO_I2S_TxEnableDMA	16	static
+../drivers/fsl_flexio_i2s.h:286:20:FLEXIO_I2S_RxEnableDMA	16	static
+../drivers/fsl_flexio_i2s.h:299:24:FLEXIO_I2S_TxGetDataRegisterAddress	16	static
+../drivers/fsl_flexio_i2s.h:312:24:FLEXIO_I2S_RxGetDataRegisterAddress	16	static
+../drivers/fsl_flexio_i2s_edma.c:65:13:FLEXIO_I2S_TxEDMACallback	40	static
+../drivers/fsl_flexio_i2s_edma.c:85:13:FLEXIO_I2S_RxEDMACallback	40	static
+../drivers/fsl_flexio_i2s_edma.c:118:6:FLEXIO_I2S_TransferTxCreateHandleEDMA	24	static
+../drivers/fsl_flexio_i2s_edma.c:160:6:FLEXIO_I2S_TransferRxCreateHandleEDMA	24	static
+../drivers/fsl_flexio_i2s_edma.c:200:6:FLEXIO_I2S_TransferSetFormatEDMA	24	static
+../drivers/fsl_flexio_i2s_edma.c:235:10:FLEXIO_I2S_TransferSendEDMA	88	static
+../drivers/fsl_flexio_i2s_edma.c:299:10:FLEXIO_I2S_TransferReceiveEDMA	88	static
+../drivers/fsl_flexio_i2s_edma.c:355:6:FLEXIO_I2S_TransferAbortSendEDMA	16	static
+../drivers/fsl_flexio_i2s_edma.c:375:6:FLEXIO_I2S_TransferAbortReceiveEDMA	16	static
+../drivers/fsl_flexio_i2s_edma.c:398:10:FLEXIO_I2S_TransferGetSendCountEDMA	40	static
+../drivers/fsl_flexio_i2s_edma.c:427:10:FLEXIO_I2S_TransferGetReceiveCountEDMA	40	static

@@ -1,0 +1,10 @@
+../drivers/fsl_flexio_spi.h:404:24:FLEXIO_SPI_GetTxDataRegisterAddress	16	static
+../drivers/fsl_flexio_spi.h:428:24:FLEXIO_SPI_GetRxDataRegisterAddress	16	static
+../drivers/fsl_flexio_spi_edma.c:75:13:FLEXIO_SPI_TxEDMACallback	40	static
+../drivers/fsl_flexio_spi_edma.c:100:13:FLEXIO_SPI_RxEDMACallback	40	static
+../drivers/fsl_flexio_spi_edma.c:125:13:FLEXIO_SPI_EDMAConfig	56	static
+../drivers/fsl_flexio_spi_edma.c:251:10:FLEXIO_SPI_MasterTransferCreateHandleEDMA	32	static
+../drivers/fsl_flexio_spi_edma.c:317:10:FLEXIO_SPI_MasterTransferEDMA	32	static
+../drivers/fsl_flexio_spi_edma.c:371:10:FLEXIO_SPI_MasterTransferGetCountEDMA	32	static
+../drivers/fsl_flexio_spi_edma.c:404:6:FLEXIO_SPI_MasterTransferAbortEDMA	16	static
+../drivers/fsl_flexio_spi_edma.c:434:10:FLEXIO_SPI_SlaveTransferEDMA	32	static

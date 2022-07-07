@@ -1,0 +1,1 @@
+../drivers/fsl_pmu.c:20:10:PMU_GetStatusFlags	24	static

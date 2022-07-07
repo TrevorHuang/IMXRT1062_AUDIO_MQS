@@ -1,0 +1,11 @@
+C:\Users\nxf75461\Documents\MCUXpressoIDE_11.5.0_7232\workspace\MIMXRT1062_MQS_TEST\CMSIS/core_cm7.h:1902:22:__NVIC_EnableIRQ	16	static
+../drivers/fsl_common_arm.h:210:20:_SDK_AtomicLocalClearAndSet4Byte	48	static
+../drivers/fsl_clock.h:1496:20:CLOCK_ControlGate	32	static
+../drivers/fsl_clock.h:1513:20:CLOCK_EnableClock	16	static
+../drivers/fsl_clock.h:1523:20:CLOCK_DisableClock	16	static
+../drivers/fsl_common_arm.h:499:24:EnableIRQ	24	static
+../drivers/fsl_kpp.c:41:17:KPP_GetInstance	24	static
+../drivers/fsl_kpp.c:58:13:KPP_Mdelay	24	static
+../drivers/fsl_kpp.c:74:6:KPP_Init	24	static
+../drivers/fsl_kpp.c:113:6:KPP_Deinit	16	static
+../drivers/fsl_kpp.c:138:6:KPP_keyPressScanning	64	static

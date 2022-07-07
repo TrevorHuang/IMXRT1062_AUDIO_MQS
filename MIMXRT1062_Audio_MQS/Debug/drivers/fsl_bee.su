@@ -1,0 +1,15 @@
+../drivers/fsl_common_arm.h:210:20:_SDK_AtomicLocalClearAndSet4Byte	48	static
+../drivers/fsl_clock.h:1496:20:CLOCK_ControlGate	32	static
+../drivers/fsl_clock.h:1513:20:CLOCK_EnableClock	16	static
+../drivers/fsl_clock.h:1523:20:CLOCK_DisableClock	16	static
+../drivers/fsl_bee.h:150:20:BEE_Enable	16	static
+../drivers/fsl_bee.h:162:20:BEE_Disable	16	static
+../drivers/fsl_bee.c:28:13:aligned_memcpy	32	static
+../drivers/fsl_bee.c:49:6:BEE_Init	16	static
+../drivers/fsl_bee.c:66:6:BEE_Deinit	16	static
+../drivers/fsl_bee.c:95:6:BEE_GetDefaultConfig	16	static
+../drivers/fsl_bee.c:122:6:BEE_SetConfig	24	static
+../drivers/fsl_bee.c:175:10:BEE_SetRegionKey	32	static
+../drivers/fsl_bee.c:245:10:BEE_SetRegionNonce	24	static
+../drivers/fsl_bee.c:287:10:BEE_GetStatusFlags	16	static
+../drivers/fsl_bee.c:299:6:BEE_ClearStatusFlags	16	static
